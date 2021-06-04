@@ -5,7 +5,7 @@ This project has been build following Udemy **Course Learn Modern React 16.8+ In
 ## Available Production URL 
 https://githubfinder-front-to-back.netlify.app/
 
-### Functionality
+### The idea behind the example
 Search for Github users and show some information about them
 
 ### Content
